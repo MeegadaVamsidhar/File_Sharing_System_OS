@@ -51,6 +51,7 @@ sudo apt-get install build-essential libsqlite3-dev libssl-dev
 ## Installation
 
 Clone the repository:
+git clone https://github.com/MeegadaVamsidhar/File_Sharing_System_OS.git
 
 Compile the project:
 

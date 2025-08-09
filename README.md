@@ -52,11 +52,6 @@ sudo apt-get install build-essential libsqlite3-dev libssl-dev
 
 Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/file-transfer-app.git
-cd file-transfer-app
-```
-
 Compile the project:
 
 ```bash
